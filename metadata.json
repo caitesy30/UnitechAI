@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Nexus UI",
+  "description": "A high-performance, aesthetically pleasing AI chat interface powered by Gemini 3, supporting multimodal inputs, streaming responses, and Google Search grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
